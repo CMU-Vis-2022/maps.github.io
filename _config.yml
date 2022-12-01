@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Energy and Coloniality
-description: Examining Pennsylvania's Energy Systems in the Age of Fracking
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
-theme: cayman
+remote-theme: cayman
 plugins:
  - jekyll-feed
  - jekyll-remote-theme
