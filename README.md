@@ -2,4 +2,4 @@
 
 Siqing Ge, Schuyler McAuliffe, Gary Qin, Hiloni Sheth
 
-Project link: https://cmu-vis-2022.github.io/maps.github.io/
+Project link: https://storymaps.arcgis.com/stories/c4955b4dbfd94dd9871d438a23eb7c7f
