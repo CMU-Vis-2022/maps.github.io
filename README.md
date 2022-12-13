@@ -1,4 +1,4 @@
-# Fall 2022 Data Visualization Final Project
+# Fracking in Pennsylvania: Examining PA’s Energy Systems in the Age of Fracking through Interactive Maps
 
 Siqing Ge, Schuyler McAuliffe, Gary Qin, Hiloni Sheth
 
