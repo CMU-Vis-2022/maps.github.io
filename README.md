@@ -12,4 +12,4 @@ Hydraulic fracturing, or fracking, is perhaps the most important energy discover
 ![alt text](https://github.com/CMU-Vis-2022/maps.github.io/blob/main/image.png?raw=true)
 
 ## Video
-[![Watch the video](https://img.youtube.com/vi/https://rLi5bRstcTc/0.jpg)](https://youtu.be/rLi5bRstcTc)
+[![Watch the video](https://img.youtube.com/vi/https://rLi5bRstcTc/maxresdefault.jpg)](https://youtu.be/rLi5bRstcTc)
