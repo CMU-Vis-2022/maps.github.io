@@ -12,4 +12,12 @@ Hydraulic fracturing, or fracking, is perhaps the most important energy discover
 ![alt text](https://github.com/CMU-Vis-2022/maps.github.io/blob/main/image.png?raw=true)
 
 ## Video
-[![Video Link](https://img.youtube.com/vi/https://rLi5bRstcTc/maxresdefault.jpg)](https://youtu.be/rLi5bRstcTc)
+[![Video Link](https://img.youtube.com/vi/rLi5bRstcTc/maxresdefault.jpg)](https://youtu.be/rLi5bRstcTc)
+
+## Work
+
+The work on this project was evenly split (roughly) among the four members, and all four members met in person weekly to work on the project together. While each members specified in different areas, all members contributed to every given individual component of the project. Team member specializations are as follows:
+Siqing: Research, Article, Report
+Schuyler: Research, Article, Technology
+Gary: Technology, Report
+Hiloni: Research, Proposal, Presentation
