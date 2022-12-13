@@ -17,7 +17,7 @@ Hydraulic fracturing, or fracking, is perhaps the most important energy discover
 ## Work
 
 The work on this project was evenly split among the four members, and all four members met in person weekly to work on the project together. While each members specified in different areas, all members contributed to every given individual component of the project. Team member specializations are as follows: \
-**Siqing**: Research, Article, Report \
-**Schuyler**: Research, Article, Technology \
+**Siqing**: Research, Draft, Report \
+**Schuyler**: Research, Draft, Technology \
 **Gary**: Technology, Report \
 **Hiloni**: Research, Proposal, Presentation
